@@ -1,0 +1,6 @@
+geopandas==0.13.2
+matplotlib==3.8.2
+numpy==1.26.2
+pandas==2.1.3
+rasterio==1.3.9
+up42_py==0.33.1
