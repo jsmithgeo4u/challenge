@@ -21,4 +21,4 @@ You will also need Jupyter Notebook installed into the environment. <br/>
 Next, install the requisite modules from the requirements file.  <br/>
 `pip install -r requirements.txt`
 
-Finally, simply open and run the Jupyter Notebook.
+Finally, simply open and run the Jupyter Notebook!
