@@ -8,7 +8,7 @@ You can view the notebook as a PDF in-situ on Github, or clone the repo and run 
 ## Useage
 
 Outputs are embedded into the notebook itself, so it's not strictly necessary to run it. However, if you wish to run the notebook yourself, please clone the repo on to your local machine. <br/>
-`git clone https://github.com/jsmith2-wirl/Challenge.git`
+`git clone https://github.com/jsmithgeo4u/challenge.git`
 
 cd into the repo and build a virtual environment. <br/>
 `python -m venv env` <br/>
